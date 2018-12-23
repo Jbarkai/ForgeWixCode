@@ -1,4 +1,4 @@
-# Wix Code Behind the Website
+# Wix Code Behind the [Forge](https://www.forgesa.com) Website
 The code behind the wix site I helped a friend create. With the help from a combination of wix code tutorials and forum answers I was able to modify and create the code needed. In order for this code to work the required data collections need to be created as well as the appropriate buttons and textboxes etc. being created with on click or on change events whenever needed.
 
 ## [Site Code](https://github.com/Jbarkai/wixcode/blob/master/SiteCode.js)
